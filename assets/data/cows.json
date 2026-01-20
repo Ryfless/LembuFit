@@ -1,0 +1,29 @@
+[
+ {
+      "name": "Jonathan",
+      "id": "001",
+      "status": "Sehat",
+      "temp": "38°C",
+      "heart": "70 Bpm",
+      "activity": "Berjalan",
+      "image": "assets/images/cow_1.png"
+    },
+    {
+      "name": "Ronald",
+      "id": "002",
+      "status": "Kurang Aktif",
+      "temp": "39°C",
+      "heart": "72 Bpm",
+      "activity": "Diam",
+      "image": "assets/images/cow_2.png"
+    },
+    {
+      "name": "James",
+      "id": "003",
+      "status": "Tidak Sehat",
+      "temp": "41°C",
+      "heart": "100 Bpm",
+      "activity": "Diam",
+      "image": "assets/images/cow_1.png"
+    }
+]
